@@ -1,2 +1,4 @@
 # Portfolio
 Collection of My Work and Personal Projects
+
+Hello, my name is Suthinee Segkhoonthod. I am currently completing my Master’s studies in Human-Technology Interaction (HTI) at Tampere University. From a very young age, I have been creating and expressing my creativity and ideas through various design mediums: illustrations, graphic design, editorial design, photography, and fiber arts. I believe that through design, one can influence and shape people’s perspectives — and actions — in ways that lead to meaningful social contributions. Inspired to develop creative, ethical products that centralize people’s needs, I actively partake in projects that involve both technical and design disciplines. In this portfolio, I have included projects in wireframe and user interface design, game design and development, graphic design, and editorial design. May the display of my work illustrate you my skillset which I will bring to the table.
